@@ -4,6 +4,7 @@
 | 信息安全相关  | web安全  |0 |
 |  | 区块链安全  |0 |
 |  | 物理设备安全  |0 |
+|  | 软件安全  |看computer security视频 |
 | 自动驾驶  | 写论文 |  0|
 | python | 学完https://github.com/zxkic/Python-100-Days | DAY13 |
 |   | 学完廖雪峰教程| 错误、调试和测试 |
