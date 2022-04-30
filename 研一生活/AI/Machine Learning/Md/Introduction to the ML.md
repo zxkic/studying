@@ -17,3 +17,4 @@ We teach the computer to learn.
 The computer learn by itself.我们不会给出任何带标注的数据集。
 1.  聚类算法：新闻聚合
 2.  非聚类算法：鸡尾酒问题，将说话者的声音同背景音乐分离出来。
+3.  鸡尾酒的代码：   ```[W,s,v] = svd((repmat(sum(x.*x,1),size(x,1),1).*x)*x');```
