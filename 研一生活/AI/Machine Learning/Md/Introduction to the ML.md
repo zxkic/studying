@@ -15,3 +15,5 @@ We teach the computer to learn.
 
 ## 1.4 Unsupervised Learning 
 The computer learn by itself.我们不会给出任何带标注的数据集。
+1.聚类算法：新闻聚合
+2.非聚类算法：鸡尾酒问题，将说话者的声音同背景音乐分离出来。
